@@ -1,2 +1,2 @@
 # OpenZip
-open source zip unpack / packer  given C#
+open source zip unpack / packer written C#
